@@ -183,20 +183,17 @@ This project demonstrates practical experience with:
 
 # 📸 Screenshots
 
-Add screenshots of:
+## Upload Interface
 
-* PDF Upload Interface
-* Chat Interface
-* Source Citations
+![Upload Interface](screenshots/ai-pdf-chatbot-ui.png)
 
-Example:
+## Chat Interface
 
-```markdown
-![Upload Screen](screenshots/upload.png)
+![Chat Interface](screenshots/ai-pdf-chatbot-ui-chat.png)
 
-![Chat Interface](screenshots/chat.png)
-```
+## AI Response with Sources
 
+![AI Response](screenshots/ai-pdf-chatbot-response.png)
 ---
 
 # 🔮 Future Improvements
